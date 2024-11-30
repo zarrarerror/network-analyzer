@@ -28,24 +28,6 @@ A simple network analyzer tool built with Flask and tcpdump. This tool allows yo
 Usage
 Select a tcpdump command from the dropdown or enter a custom command, then click "Run Command" to start capturing packets.
 
-Add and Commit Your Changes:
-Initialize a new Git repository:
-
-git init
-Add your files:
-
-git add app.py requirements.txt README.md
-Commit your changes:
-git commit -m "Initial commit of network analyzer tool"
-Link Your Local Repository to GitHub:
-Add the remote repository:
-
-git remote add origin https://github.com/yourusername/network-analyzer.git
-Push Your Changes to GitHub:
-Push your local changes to the GitHub repository:
-
-git push -u origin master
-Final Structure of Your Project
 Your project directory should look like this:
 
 network_analyzer/
