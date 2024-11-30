@@ -16,7 +16,7 @@ A simple network analyzer tool built with Flask and tcpdump. This tool allows yo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-analyzer.git
+   git clone https://github.com/zarrarerror/network-analyzer.git
    cd network-analyzer
 
 2. Install the required packages:
