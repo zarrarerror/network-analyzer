@@ -21,8 +21,10 @@ A simple network analyzer tool built with Flask and tcpdump. This tool allows yo
 
 2. Install the required packages:
    pip install -r requirements.txt
+   
 3.Run the application:
   python app.py
+  
 4. Access the tool in your web browser at http://localhost:5000.
 
 Usage
